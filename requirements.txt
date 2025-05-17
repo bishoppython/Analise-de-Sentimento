@@ -1,0 +1,5 @@
+instagrapi
+moviepy
+openai-whisper
+python-dotenv
+ffmpeg
